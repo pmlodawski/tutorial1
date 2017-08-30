@@ -1,0 +1,4 @@
+- name: tutorial1
+- description: Test tutorial
+- uri: https://github.com/pmlodawski/tutorial1
+- thumbnails: hello.png
